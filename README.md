@@ -17,4 +17,4 @@ The objective of this mini-project is to develop a ResNet (Residual Network) mod
 ## Conclusion:
 This mini-project showcases the development and analysis of a ResNet model on the CIFAR10 dataset, highlighting the architecture, model training process, and the importance of saving the trained model for future deployment and use cases.
 
-<img width="440" alt="image" src="https://github.com/Anitha-Balachandran/ResNet-CIFAR10-Analysis/assets/143915040/6012b85e-6f0a-4273-b2df-d470fda07407">
+<img width="640" alt="image" src="https://github.com/Anitha-Balachandran/ResNet-CIFAR10-Analysis/assets/143915040/6012b85e-6f0a-4273-b2df-d470fda07407">
